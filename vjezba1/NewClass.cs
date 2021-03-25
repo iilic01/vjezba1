@@ -6,7 +6,6 @@ namespace vjezba1
 {
     class NewClass
     {
-        static void Metoda()
-        { }
+        #promjena
     }
 }
